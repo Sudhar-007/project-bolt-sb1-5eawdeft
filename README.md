@@ -47,7 +47,6 @@ User XP and level are calculated on the client side based on stored task data.
 
 Future Improvements
 
-
 Daily streak tracking
 reminders/notifications
 Better task categorization
